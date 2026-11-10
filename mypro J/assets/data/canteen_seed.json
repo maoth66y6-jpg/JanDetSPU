@@ -1,0 +1,38 @@
+[
+  {
+    "id": "rst_sample_1",
+    "name": "ป้าพร ตามสั่งกระทะเหล็ก",
+    "location": "โรงเย็น อาคาร 10 (ชั้น 1)",
+    "category": "ข้าวราดแกง / อาหารตามสั่ง",
+    "priceRange": "45 - 60 บาท",
+    "avgPrice": 50,
+    "rating": 4.9,
+    "reviewCount": 12,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600",
+    "description": "กะเพราหมูกรอบในตำนาน พริกแห้งหอมฟุ้ง ให้เยอะจุใจ ขวัญใจเด็กศรีปทุม",
+    "openHours": "07:30 - 17:00 น.",
+    "tags": ["กะเพรา", "หมูกรอบ", "ยอดนิยม", "โรงเย็น"],
+    "menus": [
+      { "name": "กะเพราหมูกรอบไข่ดาว", "price": 55, "isRecommended": true },
+      { "name": "ข้าวผัดต้มยำทะเล", "price": 60, "isRecommended": false }
+    ]
+  },
+  {
+    "id": "rst_sample_2",
+    "name": "เตี๋ยวเรืออยุธยา สูตรเด็ดหลังตึก 5",
+    "location": "โรงร้อน (หลังอาคาร 5)",
+    "category": "ก๋วยเตี๋ยว / บะหมี่ / ราเมน",
+    "priceRange": "40 - 55 บาท",
+    "avgPrice": 45,
+    "rating": 4.8,
+    "reviewCount": 9,
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600",
+    "description": "น้ำตกเข้มข้นไม่ต้องปรุงเพิ่ม หมูนุ่ม ลูกชิ้นเด้ง กากหมูเจียวสดใหม่ทุกวัน",
+    "openHours": "08:00 - 16:30 น.",
+    "tags": ["ก๋วยเตี๋ยวเรือ", "น้ำตก", "โรงร้อน"],
+    "menus": [
+      { "name": "เส้นเล็กน้ำตกหมูตุ๋น", "price": 45, "isRecommended": true },
+      { "name": "กากหมูเจียวทรงเครื่อง", "price": 20, "isRecommended": false }
+    ]
+  }
+]
